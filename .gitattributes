@@ -1,0 +1,16 @@
+models/CopperShroom.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/CornAndClip.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/PCB.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/PopArt.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/ColorSmoke.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/GoldenMoth.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/OldComics.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/Paint.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/SpaceWorlf.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/Yarn.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/AnimalAndSky.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/Paint2.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/PaperClips.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/Sketch.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/TicTac.mlmodel filter=lfs diff=lfs merge=lfs -text
+models/Flowerish.mlmodel filter=lfs diff=lfs merge=lfs -text
